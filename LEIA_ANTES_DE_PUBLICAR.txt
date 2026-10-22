@@ -1,0 +1,15 @@
+CLUBE DAS LETRINHAS — PÁGINA ATUALIZADA
+
+CHECKOUTS CAKTO CONECTADOS
+- Kit Essencial (60 atividades): R$ 19,90 — https://pay.cakto.com.br/xr7yb6f
+- Kit Completo (210 atividades): R$ 37,90 — https://pay.cakto.com.br/3ckhyo8_1228374
+
+COMO USAR
+1. Para abrir no computador, use PAGINA_HTML_UNICO.html (sem pasta de imagens).
+2. Para publicar na Vercel ou hospedagem estática, envie index.html e a pasta assets/ mantendo a estrutura.
+3. Faça compras de teste na Cakto para conferir pagamento e entrega dos kits.
+4. Configure a entrega digital dos materiais na Cakto; os links de pagamento não entregam os arquivos por si só.
+
+ATENÇÃO
+- Os 70 jogos educativos são um upsell separado, não incluído no plano Completo.
+- Alterar links: procure por CHECKOUT_LINKS no fim do HTML.
